@@ -1,0 +1,19 @@
+.head{
+    height: 100px;
+    background-color: darkcyan;
+}
+
+.cart{
+    height: 50px;
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 1200px;
+}
+
+.product{
+    margin-left: 1220px;
+    margin-top: 20px;
+   font-size: 25px;
+    z-index: 5;
+    position: absolute;
+}
